@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "scripts": {
+    "start": "json-server --watch mock-api/b1to6.json",
+    "dev": "json-server --watch mock-api/b7to10.json"
+  }
+}

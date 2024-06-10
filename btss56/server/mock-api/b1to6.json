@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 60614119291,
+      "product_name": "Iphone X",
+      "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(5):fill(white)/fptshop.com.vn/Uploads/Originals/2017/12/8/636483223586180190_3.jpg",
+      "price": "100000",
+      "quantity": "19",
+      "create_at": "2024-06-12"
+    },
+    {
+      "id": 58810581605,
+      "product_name": "Iphone X",
+      "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(5):fill(white)/fptshop.com.vn/Uploads/Originals/2017/12/8/636483223586180190_3.jpg",
+      "price": "14",
+      "quantity": "12",
+      "create_at": "2024-06-24"
+    },
+    {
+      "id": 14177671748,
+      "product_name": "Iphone X",
+      "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(5):fill(white)/fptshop.com.vn/Uploads/Originals/2017/12/8/636483223586180190_3.jpg",
+      "price": 10000,
+      "quantity": 100,
+      "create_at": "2023-07-24T00:00:00.000Z"
+    },
+    {
+      "id": 33756667981,
+      "product_name": "Iphone X",
+      "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(5):fill(white)/fptshop.com.vn/Uploads/Originals/2017/12/8/636483223586180190_3.jpg",
+      "price": 100000,
+      "quantity": 100,
+      "create_at": "2023-07-24T00:00:00.000Z"
+    }
+  ]
+}

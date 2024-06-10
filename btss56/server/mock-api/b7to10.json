@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cam Tươi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2gSe06GZ9iBw6z1od3jKsy_zVMepHi31kQ&s",
+      "price": 12000,
+      "stock": 12,
+      "create_at": "28/06/2024"
+    },
+    {
+      "id": 2,
+      "name": "Táo lê",
+      "image": "https://cdn.eva.vn/upload/1-2021/images/2021-01-20/tao2-1611093916-823-width600height400.jpg",
+      "price": 25000,
+      "stock": 150,
+      "create_at": "15/02/2024"
+    },
+    {
+      "id": 3,
+      "name": "Xoài",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxAqcO30Wt4-w3VNy7zNiNd-zPc7vz2d55w&s",
+      "price": 30000,
+      "stock": 102,
+      "create_at": "28/06/2024"
+    }
+  ]
+}
